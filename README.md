@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/33227962/README.2.md)
+
 <div align="center">
 
 # PORSCHE | Sales Intelligence Dashboard
@@ -33,7 +33,7 @@ A proposta combina análise de dados, definição de perguntas de negócio, enge
 
 ![Prévia do dashboard Porsche Sales Intelligence](images/dashboard-preview.png)
 
-> Para que a imagem apareça no GitHub, adicione também o arquivo `images/dashboard-preview.png` ao repositório.
+
 
 ## 3. Perguntas de negócio escolhidas — e por quê
 
